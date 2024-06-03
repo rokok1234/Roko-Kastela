@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color :black;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size:	17px;
+	line-height: 20px;
+	width: 1000px;
+	background-color:gray;
+	padding: 30px;
+		
+} 
+.paragraph_2{color:darkcyan; background-color: rgba(37,77,203,1.00)}
+.novi_blok{
+	background-color: aqua;
+	padding: 100px;
+	margin:100px;
+	width: 50%;
+}
+h2,h1 {
+	
+font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: cadetblue;
+}
+
+a:link{color: black;
+background-color: greenyellow;
+	padding: 7px;
+	line-height: 60px;
+	border: 2px solid #120212;
+
+}
+a:hover{
+	background-color:red;
+	
+}
+img{
+height: 400px;	
+
+}
+body{
+	background-color: #B298FD
+}
